@@ -68,7 +68,7 @@ void LoginScreen(void)
     int e = 0;
     char Username[15];
     char Password[15];
-    char original_Username[25]="aish";
+    char original_Username[25]="harshsingh";
     char original_Password[15]="1234";
     do
     {
